@@ -8,7 +8,7 @@
 - 认领 @github-account
 - 页内跳转
   - <https://docs.solana.com/cli>
-    - 重定向到了 [#CLI](#cli)
+    - 重定向到了 [CLI](#cli)
   - <https://docs.solana.com/getstarted/hello-world>
   - <https://docs.solana.com/developing/programming-model/transactions>
   - <https://docs.solana.com/developing/programming-model/accounts>
@@ -52,27 +52,27 @@
 
 #### Dive into Solana > Terminology
 
-重定向到了 [#Terminology](#more--terminology)
+重定向到了 [Terminology](#more--terminology)
 
 #### Dive into Solana > Developers
 
-重定向到了 [#Developers](#developers)
+重定向到了 [Developers](#developers)
 
 #### Dive into Solana > Validators
 
-重定向到了 [#Validators](#validators)
+重定向到了 [Validators](#validators)
 
 #### Dive into Solana > Command Line
 
-重定向到了 [#CLI](#cli)
+重定向到了 [CLI](#cli)
 
 #### Dive into Solana > Economics
 
-重定向到了 [#Economics](#more--economics)
+重定向到了 [Economics](#more--economics)
 
 #### Dive into Solana > Proposals
 
-重定向到了 [#Proposals](#more--proposals)
+重定向到了 [Proposals](#more--proposals)
 
 ## 【Architecture】
 
