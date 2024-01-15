@@ -510,11 +510,165 @@
 
 ##### HTTP Methods
 
-TODO
+###### getAccountInfo
+
+###### getBalance
+
+###### getBlockHeight
+
+###### getBlock
+
+###### getBlockProduction
+
+###### getBlockCommitment
+
+###### getBlocks
+
+###### getBlocksWithLimit
+
+###### getBlockTime
+
+###### getClusterNodes
+
+###### getEpochInfo
+
+###### getEpochSchedule
+
+###### getFeeForMessage
+
+###### getFirstAvailableBlock
+
+###### getGenesisHash
+
+###### getHealth
+
+###### getHighestSnapshotSlot
+
+###### getIdentity
+
+###### getInflationRate
+
+###### getInflationReward
+
+###### getLargestAccounts
+
+###### getLatestBlockhash
+
+###### getLeaderSchedule
+
+###### getMaxRetransmitSlot
+
+###### getMaxShredInsertSlot
+
+###### getMinimumBalanceForRentExemption
+
+###### getMultipleAccounts
+
+###### getProgramAccounts
+
+###### getRecentPerformanceSamples
+
+###### getRecentPrioritizationFees
+
+###### getSignaturesForAddress
+
+###### getSignatureStatuses
+
+###### getSlot
+
+###### getSlotLeader
+
+###### getSlotLeaders
+
+###### getStakeActivation
+
+###### getStakeMinimumDelegation
+
+###### getSupply
+
+###### getTokenAccountBalance
+
+###### getTokenAccountsByDelegate
+
+###### getTokenAccountsByOwner
+
+###### getTokenSupply
+
+###### getTransaction
+
+###### getTransactionCount
+
+###### getVersion
+
+###### getVoteAccounts
+
+###### isBlockhashValid
+
+###### minimumLedgerSlot
+
+###### requestAirdrop
+
+###### sendTransaction
+
+###### simulateTransaction
 
 ##### WebSocket Methods
 
-TODO
+###### accountSubscribe
+
+###### accountUnsubscribe
+
+###### logsSubscribe
+
+###### logsUnsubscribe
+
+###### programSubscribe
+
+###### programUnsubscribe
+
+###### signatureSubscribe
+
+###### signatureUnsubscribe
+
+###### slotSubscribe
+
+###### slotUnsubscribe
+
+##### Ubstable Methods
+
+###### blockSubscribe
+
+###### blockUnsubscribe
+
+###### slotsUpdatesSubscribe
+
+###### slotsUpdatesUnsubscribe
+
+###### voteSubscribe
+
+###### voteUnsubscribe
+
+##### Deprecated Methods
+
+###### getConfirmedBlock
+
+###### getConfirmedBlocks
+
+###### getConfirmedBlocksWithLimit
+
+###### getConfirmedSignaturesForAddress2
+
+###### getConfirmedTransaction
+
+###### getFeeCalculatorForBlockhash
+
+###### getFeeRateGovernor
+
+###### getFees
+
+###### getRecentBlockhash
+
+###### getSnapshotSlot
 
 #### Web3 Javascript API
 
